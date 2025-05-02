@@ -1,7 +1,7 @@
 # DockerBasic
 
 ## Services:
-- ASP.NET Core Web API
+- ASP.NET Core Web API (Sample .Net Core Web API Project, demonstrating CRUD operation)
 - PostgreSQL DB
 - Redis Cache
 
